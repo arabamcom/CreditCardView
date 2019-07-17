@@ -5,7 +5,7 @@ This repository forked from [sharish/CreditCardView](https://github.com/sharish/
 
 ## Latest release!
 
-* Update Circular Reveal ve.
+* Update Circular Reveal version.
 
 Intro
 ------
