@@ -1,5 +1,11 @@
+
 # CreditCardView
 
+This repository forked from [sharish/CreditCardView](https://github.com/sharish/CreditCardView) and been using by arabam.com android-team. We fixed some bugs  and will continue. Please feel free for open issue or pull request.
+
+## Latest release!
+
+* Update Circular Reveal ve.
 
 Intro
 ------
@@ -13,12 +19,6 @@ CreditCardView is a rich UX custom view to accomodate Credit Cards / Debit Cards
 | ![MASTER FRONT][master_front] | ![MASTER BACK][master_back]   |
 
 * CardEditActivity which behaves as below. 
-
-<img src='https://d13yacurqjgara.cloudfront.net/users/484057/screenshots/2177105/checkout_generic.gif' width='600' height='350' />
-
-(GIF from - <https://dribbble.com/shots/2177105-Checkout-Flow-Card> )
-
-
 
 Creating a CreditCardView
 --------------------------
@@ -122,7 +122,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.sharish:CreditCardView:v1.0.4'
+    implementation 'com.github.arabamcom:CreditCardView:v1.0.5'
 }
 ```
 - Add the following activity to your AndroidManifest.xml
